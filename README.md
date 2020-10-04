@@ -28,7 +28,7 @@ super easy.
 - 👨🏽‍💻 I’m currently working on something cool :wink: ;
 - 🌱 I’m currently learning ReactJS and C++ ; 
 - 💬 Ask me about anything, I am happy to help ;
-- 📫 How to reach me: [Ankush Chauhan](https://www.linkedin.com/ankush-chauhan-590b5b1ab/) ;
+- 📫 How to reach me: [Amrit Anand](https://www.linkedin.com/ankush-chauhan-590b5b1ab/) ;
 - 📝[Resume](https://www.linkedin.com/ankush-chauhan-590b5b1ab/) ;
   
   
