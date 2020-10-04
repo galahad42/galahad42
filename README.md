@@ -2,19 +2,19 @@
 
 <br>
   <a href="https://discord.gg/GXc8Y7p">
-  <img align="left" alt="Ankush's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="left" alt=" Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/AnkushC41962223">
-  <img align="left" alt="Ankush's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/ankush-chauhan-590b5b1ab/">
-  <img align="left" alt="Ankush's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt=" Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UC9upzF9wBH5CGvf8dSIp-aw?disable_polymer=true">
-  <img align="left" alt="Ankush's Youtube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="Youtube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="https://www.codepen.io/anproghub">
-  <img align="top-right" alt="Ankush's Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
+  <img align="top-right" alt="Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=galahad42.galahad42)
@@ -30,8 +30,8 @@ super easy.
 - 👨🏽‍💻 I’m currently working on something cool :wink: ;
 - 🌱 I’m currently learning ReactJS and C++ ; 
 - 💬 Ask me about anything, I am happy to help ;
-- 📫 How to reach me: [Amrit Anand](https://www.linkedin.com/ankush-chauhan-590b5b1ab/) ;
-- 📝[Resume](https://www.linkedin.com/ankush-chauhan-590b5b1ab/) ;
+- 📫 How to reach me: [Amrit Anand](https://www.linkedin.com/-590b5b1ab/) ;
+- 📝[Resume](https://www.linkedin.com/-590b5b1ab/) ;
   
   
 
@@ -56,7 +56,7 @@ super easy.
 <code><img height="35" src="https://material-ui.com/static/logo.png"></code>
 
 
-📊 **This Week I Spent My Time On:**⏰🕜
+**This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
 Python       13 hrs 36 mins  ████████████▓░░░░░░░░░░░░   50.75 % 
