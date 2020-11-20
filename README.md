@@ -1,19 +1,11 @@
 ### Hey there , I'm Amrit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <br>
-  <a href="https://discord.gg/GXc8Y7p">
-  <img align="left" alt=" Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<a href="https://twitter.com/AnkushC41962223">
-  <img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/ankush-chauhan-590b5b1ab/">
+<a href="https://www.linkedin.com/in/amrit-anand-236a36196/">
   <img align="left" alt=" Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UC9upzF9wBH5CGvf8dSIp-aw?disable_polymer=true">
-  <img align="left" alt="Youtube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="https://www.codepen.io/anproghub">
+
+<a href="https://codepen.io/galahad42">
   <img align="top-right" alt="Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 </a>
 
@@ -30,7 +22,7 @@ super easy.
 - 👨🏽‍💻 I’m currently working on something cool :wink: ;
 - 🌱 I’m currently learning ReactJS and C++ ; 
 - 💬 Ask me about anything, I am happy to help ;
-- 📫 How to reach me: [Amrit Anand](https://www.linkedin.com/-590b5b1ab/) ;
+- 📫 How to reach me: [Amrit Anand](https://www.linkedin.com/in/amrit-anand-236a36196/) ;
 - 📝[Resume](https://www.linkedin.com/-590b5b1ab/) ;
   
   
