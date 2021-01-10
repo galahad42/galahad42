@@ -11,7 +11,11 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=galahad42.galahad42)
 <br>
-<img height="300" src="https://octodex.github.com/images/privateinvestocat.jpg">
+
+<p align="center">
+<img height="300" src="https://octodex.github.com/images/privateinvestocat.jpg" />
+</p>
+
 
 I'm Amrit Anand a High School Web Developer 🚀 from India currently, I'm studying in 12th grade. Who loves computer programming and interacting with the people of similar interest so that I can develop myself into a better version. 
 An Enthusiastic person who is passionate about making open-source more accessible, creating technology to elevate people, and building community Where sharing of knowledge is
