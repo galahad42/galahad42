@@ -25,11 +25,11 @@ super easy.
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink: ;
-- 🌱 I’m currently learning ReactJS and C++ ; 
-- 💬 Ask me about anything, I am happy to help ;
-- 📫 How to reach me: [Amrit Anand](https://www.linkedin.com/in/amrit-anand-236a36196/) ;
-- 📝[Resume](https://www.linkedin.com/-590b5b1ab/) ;
+- 👨🏽‍💻 I’m currently working on something cool :wink:
+- 🌱 I’m currently learning ReactJS and C++
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: [Amrit Anand](https://www.linkedin.com/in/amrit-anand-236a36196/)
+- 📝 Check out my [Resume](https://www.linkedin.com/-590b5b1ab/)
 
 <p align="center">
   Join our MLH Guild <b>EddieHub</b> for #LocalHackDay to earn more points and swag! <a href="https://localhackday.mlh.io/build">Sign up now</a>
