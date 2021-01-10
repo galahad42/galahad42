@@ -26,6 +26,13 @@ super easy.
 - 💬 Ask me about anything, I am happy to help ;
 - 📫 How to reach me: [Amrit Anand](https://www.linkedin.com/in/amrit-anand-236a36196/) ;
 - 📝[Resume](https://www.linkedin.com/-590b5b1ab/) ;
+
+<p align="center">
+  Join our MLH Guild <b>EddieHub</b> for #LocalHackDay to earn more points and swag! <a href="https://localhackday.mlh.io/build">Sign up now</a>
+</p>
+
+![MLH: Build](https://github.com/yalematta/yalematta/blob/master/github_profile_mlh.png)
+
   
   
 
