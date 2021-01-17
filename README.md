@@ -5,9 +5,6 @@
   <img align="left" alt=" Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://codepen.io/galahad42">
-  <img align="top-right" alt="Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=galahad42.galahad42)
 <br>
@@ -29,16 +26,6 @@ super easy.
 - 🌱 I’m currently learning ReactJS and C++
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [Amrit Anand](https://www.linkedin.com/in/amrit-anand-236a36196/)
-- 📝 Check out my [Resume](https://www.linkedin.com/-590b5b1ab/)
-
-<p align="center">
-  Join our MLH Guild <b>EddieHub</b> for #LocalHackDay to earn more points and swag! <a href="https://localhackday.mlh.io/build">Sign up now</a>
-</p>
-
-![MLH: Build](https://github.com/yalematta/yalematta/blob/master/github_profile_mlh.png)
-
-  
-  
 
 **Languages and Tools:**  
 
@@ -61,17 +48,6 @@ super easy.
 <code><img height="35" src="https://material-ui.com/static/logo.png"></code>
 
 
-**This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Python       13 hrs 36 mins  ████████████▓░░░░░░░░░░░░   50.75 % 
-JavaScript   5 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.06 % 
-CSS          4 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.74 % 
-HTML         1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-React        45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-```
-
-<!--END_SECTION:waka-->
 
 
  💭🌇🗼 **My Dream Companies:** 🌇🗼
