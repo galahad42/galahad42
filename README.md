@@ -1,17 +1,11 @@
-### Hey there , I'm Amrit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+[![Amrit's GitHub Banner](./assets/Header.png)](https://www.galahad42.courses)
 
-<br>
-<a href="https://www.linkedin.com/in/amrit-anand-236a36196/">
-  <img align="left" alt=" Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+[![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=galahad42.galahad42)](https:braydoncoyer.dev)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/galahad42_)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/galahad42)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/galahad42)
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=galahad42.galahad42)
-<br>
-
-<p align="center">
-<img height="300" src="https://octodex.github.com/images/privateinvestocat.jpg" />
-</p>
+Hey there 👋
 
 
 I'm Amrit Anand a High School Web Developer 🚀 from India currently, I'm studying in 12th grade. Who loves computer programming and interacting with the people of similar interest so that I can develop myself into a better version. 
