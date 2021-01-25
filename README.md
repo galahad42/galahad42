@@ -18,7 +18,8 @@ Want to know more about me? [Check out my portfolio.](https://www.galahad42.cour
 <br>
 
 ## &#x1f4c8; GitHub Stats
-<p align = "center"> 
+<p align = "center">
+
 [![Amrit's github activity graph](https://activity-graph.herokuapp.com/graph?username=galahad42&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </p>
