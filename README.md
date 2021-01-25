@@ -17,8 +17,6 @@ An Enthusiastic person who is passionate about making open-source more accessibl
 
 ## &#x1f4c8; GitHub Stats
 <br>
-
-<br>
 <p align = "center"> 
 
 [![Amrit's github activity graph](https://activity-graph.herokuapp.com/graph?username=galahad42&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
