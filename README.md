@@ -14,8 +14,8 @@ An Enthusiastic person who is passionate about making open-source more accessibl
 
 <br>
 <br>
-[![Amrit's github activity graph](https://activity-graph.herokuapp.com/graph?username=galahad42)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![Amrit's github activity graph](https://activity-graph.herokuapp.com/graph?username=galahad42&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 <br>
 
