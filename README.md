@@ -12,13 +12,13 @@ I'm Amrit Anand a High School Web Developer 🚀 from India currently, I'm study
 
 An Enthusiastic person who is passionate about making open-source more accessible, creating technology to elevate people, and building community Where sharing of knowledge is super easy.
 
+Want to know more about me? [Check out my portfolio.](https://www.galahad42.courses)
+
 <br>
 <br>
 
 ## &#x1f4c8; GitHub Stats
-<br>
 <p align = "center"> 
-
 [![Amrit's github activity graph](https://activity-graph.herokuapp.com/graph?username=galahad42&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </p>
