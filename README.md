@@ -1,6 +1,5 @@
 [![Amrit's GitHub Banner](./assets/Header.png)](https://www.galahad42.courses)
 
-![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=galahad42.galahad42)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/galahad42_)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/galahad42)
 
