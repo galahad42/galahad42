@@ -6,7 +6,7 @@
 Hey there 👋
 
 
-Welcome to my GitHub. I'm Amrit Anand, an aspiring Developer and Open Source Contributor, who loves computer programming and interacting with the people of similar interest.
+Welcome to my GitHub. I'm an aspiring Developer and Open Source Contributor, who loves computer programming and interacting with the people of similar interest.
 
 
 <br>
