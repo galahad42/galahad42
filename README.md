@@ -8,8 +8,7 @@ Welcome to my GitHub. I'm an aspiring Developer and Open Source Contributor, who
 
 <br>
 
----
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 <p align = "center">
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=galahad42&theme=dracula&show_icons=true" alt="maemreyo" width="400" />
@@ -20,16 +19,16 @@ Welcome to my GitHub. I'm an aspiring Developer and Open Source Contributor, who
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=galahad42&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 </div>
+<br>
 
----
-### 🔗 Connect with me:
+## 🔗 Connect with me:
 
 <a href="mailto:amritanand.dev.github@gmail.com"><img align="left" alt="Mail" width="28px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" /></a>
 <a href="https://twitter.com/galahad42_"><img align="left" alt="Twitter" width="28px" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7275.png" /></a>
 </br>
+<br>
 
----
-### Languages and Tools I Use:
+## Languages and Tools I Use:
 
 [<img align="left" alt="Node.js" width="26px" src="https://nodejs.org/static/images/favicons/favicon-32x32.png" />](https://nodejs.org)
 [<img align="left" alt="Python" width="26px" src="https://www.python.org/static/favicon.ico" />](https://python.org)
@@ -42,8 +41,7 @@ Welcome to my GitHub. I'm an aspiring Developer and Open Source Contributor, who
 [<img align="left" alt="Git" width="26px" src="https://git-scm.com/favicon.ico" />](https://git-scm.com/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://code.visualstudio.com/favicon.ico" />](https://code.visualstudio.com/)
 <br />
-
+<br>
 
 ---
-<br>
 <br>
