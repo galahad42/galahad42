@@ -17,7 +17,7 @@ Welcome to my GitHub. I'm an aspiring Developer and Open Source Contributor, who
 
 
 
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=galahad42&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=galahad42&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 </div>
 <br>
 
