@@ -30,6 +30,8 @@ Welcome to my GitHub. I'm an aspiring Developer and Open Source Contributor, who
 
 ## Languages and Tools I Use:
 
+[<img align="left" alt="Flutter" width="26px" src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" />](https://flutter.dev/)
+[<img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" />](https://dart.dev/)
 [<img align="left" alt="Node.js" width="26px" src="https://nodejs.org/static/images/favicons/favicon-32x32.png" />](https://nodejs.org)
 [<img align="left" alt="Python" width="26px" src="https://www.python.org/static/favicon.ico" />](https://python.org)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://developer.mozilla.org/en/docs/Web/HTML)
