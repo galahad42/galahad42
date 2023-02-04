@@ -8,26 +8,6 @@ Welcome to my GitHub. I'm an aspiring Developer and Open Source Contributor, who
 
 <br>
 
-## ⚙️ &nbsp;GitHub Analytics
-<p align = "center">
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=galahad42&theme=dracula&show_icons=true" alt="maemreyo" width="400" />
-<img src="http://github-readme-streak-stats.herokuapp.com?user=galahad42&theme=dracula&hide_border=false" alt="maemreyo" width="400" />
-</p>
-
-
-
-![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=galahad42&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
-</div>
-<br>
-
-<details>
-  <summary>:zap: My Activity:</summary>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-  
-</details>
-
 ## 🔗 Connect with me:
 
 <a href="mailto:amritanand.dev.github@gmail.com"><img align="left" alt="Mail" width="28px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" /></a>
@@ -51,6 +31,28 @@ Welcome to my GitHub. I'm an aspiring Developer and Open Source Contributor, who
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://code.visualstudio.com/favicon.ico" />](https://code.visualstudio.com/)
 <br />
 <br>
+
+
+## ⚙️ &nbsp;GitHub Analytics
+<p align = "center">
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=galahad42&theme=dracula&show_icons=true" alt="maemreyo" width="400" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=galahad42&theme=dracula&hide_border=false" alt="maemreyo" width="400" />
+</p>
+
+
+
+![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=galahad42&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+</div>
+<br>
+
+<details>
+  <summary><h2> :zap: My Activity:</h2></summary>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+  
+</details>
+
 
 ---
 <br>
