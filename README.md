@@ -21,6 +21,13 @@ Welcome to my GitHub. I'm an aspiring Developer and Open Source Contributor, who
 </div>
 <br>
 
+<details>
+  <summary>:zap: My Activity:</summary>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+  
+</details>
+
 ## 🔗 Connect with me:
 
 <a href="mailto:amritanand.dev.github@gmail.com"><img align="left" alt="Mail" width="28px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" /></a>
